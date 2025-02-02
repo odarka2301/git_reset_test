@@ -1,1 +1,3 @@
 Change in master
+Change in conflicting-branch
+
